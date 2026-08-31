@@ -1,0 +1,20 @@
+# Python cache & virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# PyTorch / Checkpoints
+*.pt
+*.pth
+*.bin
+*.onnx
+
+# OS files
+.DS_Store
+Thumbs.db
