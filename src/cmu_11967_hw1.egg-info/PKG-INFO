@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: cmu-11967-hw1
+Version: 2025.1.5
+Author: Yiming Zhang, Clement Fung, Xinyue Liu
+Author-email: yimingz3@cs.cmu.edu
+Requires-Python: ~=3.11
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-python
